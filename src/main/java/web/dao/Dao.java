@@ -8,7 +8,7 @@ import java.util.List;
 
 
 @Repository
-public class Dao {
+public class Dao implements DaoI {
 
     public static final List <Car> cars = new ArrayList<>();
     static {

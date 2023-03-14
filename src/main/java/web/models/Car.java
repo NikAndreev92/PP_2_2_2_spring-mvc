@@ -16,10 +16,6 @@ public class Car {
 
     }
 
-//    public Car() {
-//
-//    }
-
     public String getColor() {
         return color;
     }
